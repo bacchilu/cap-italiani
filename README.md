@@ -1,5 +1,5 @@
 # cap-italiani
-It returns the italian Procince given a CAP Comune.
+It returns the name of the italian _Province_ given the C.A.P. of the _Comune_.
 
 Usage:
 
